@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Мой чатик</string>
+    <string name="send_button_name">Отправить</string>
+    <string name="edit_text_hint">Введите сообщение</string>
+    <string name="My_message">Мое сообщение</string>
+    <string name="ToastHintNull">Введите сообщение!</string>
+    <string name="ToastHintSoLong">Слишком длинное сообщение</string>
+</resources>

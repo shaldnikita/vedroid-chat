@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="send_button_name">Send</string>
+    <string name="edit_text_hint">Enter your message</string>
+    <string name="My_message">My_message</string>
+    <string name="ToastHintNull">Enter message!</string>
+    <string name="ToastHintSoLong">Your message is too long</string>
+</resources>
